@@ -28,6 +28,15 @@ The Python assignment includes practical examples of:
 * User input
 * Built-in functions: `range()`, `len()`, and `type()`
 
+### 3. NumPy Assignment (08-07-2026)
+
+This assignment demonstrates the fundamentals of NumPy, including:
+
+*Creating multidimensional arrays
+*Accessing array elements using indexing
+*Performing mathematical operations
+*Applying 15+ commonly used NumPy methods for array manipulation and analysis
+
 
 
 
