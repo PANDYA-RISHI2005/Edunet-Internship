@@ -9,12 +9,12 @@ The Edunet Foundation Internship aims to equip learners with practical knowledge
 
 ##  Repository Contents
 
-### 1. Green Skills Presentation
+### 1. Green Skills Presentation (06-07-2026)
 
 * Presentation on **Green Skills Using AI Technologies**
 * Covers the role of AI in promoting sustainability, environmental conservation, and resource optimization.
 
-### 2. Python Basics Assignment
+### 2. Python Basics Assignment (07-07-2025)
 
 The Python assignment includes practical examples of:
 
