@@ -32,10 +32,10 @@ The Python assignment includes practical examples of:
 
 This assignment demonstrates the fundamentals of NumPy, including:
 
-*Creating multidimensional arrays
-*Accessing array elements using indexing
-*Performing mathematical operations
-*Applying 15+ commonly used NumPy methods for array manipulation and analysis
+* Creating multidimensional arrays
+* Accessing array elements using indexing
+* Performing mathematical operations
+* Applying 15+ commonly used NumPy methods for array manipulation and analysis
 
 
 
