@@ -37,6 +37,23 @@ This assignment demonstrates the fundamentals of NumPy, including:
 * Performing mathematical operations
 * Applying 15+ commonly used NumPy methods for array manipulation and analysis
 
+### 4. Data Cleaning and Analysis using Pandas & NumPy (09-07-2026)
+
+This assignment focuses on cleaning and analyzing a **Solar Energy Worldwide** dataset related to sustainability.
+
+Tasks performed:
+
+- Downloaded a sustainability-related dataset
+- Imported the dataset using Pandas
+- Explored dataset structure and summary
+- Identified missing values
+- Removed duplicate records
+- Handled missing values using `fillna()` and `ffill()`
+- Performed basic data analysis
+- Studied relationships between dataset features
+- Summarized the complete data cleaning process
+
+
 
 
 
