@@ -1,7 +1,7 @@
 # Solar Energy Data Analysis
 
 ## Overview
-This project analyzes a solar energy dataset related to sustainability using **Python, Pandas, and NumPy**. The dataset was cleaned by handling missing values and removing duplicate records.
+This project analyzes a solar energy dataset related to sustainability using **Python, Pandas, and NumPy**. The dataset was cleaned by handling missing values.
 
 ## Features
 - Data Cleaning
