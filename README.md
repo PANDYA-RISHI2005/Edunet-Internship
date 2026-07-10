@@ -53,6 +53,26 @@ Tasks performed:
 - Studied relationships between dataset features
 - Summarized the complete data cleaning process
 
+# 5. Data Cleaning and Analysis using Pandas & NumPy (10-07-2026)
+
+This assignment focuses on cleaning and analyzing a **World Sustainability Dataset** containing environmental, economic, and social sustainability indicators for multiple countries.
+
+### Tasks Performed:
+
+* Downloaded a sustainability-related dataset (World Sustainability Dataset)
+* Imported the dataset using **Pandas**
+* Explored the dataset structure using `head()`, `info()`, `shape()`, and `describe()`
+* Identified and visualized missing values using Seaborn
+* Removed duplicate records
+* Handled missing values using median for numerical columns and mode for categorical columns
+* Performed feature engineering by creating a **Trade Balance** column (Exports − Imports)
+* Encoded categorical variables using `pd.get_dummies()`
+* Applied **StandardScaler** to numerical columns
+* Visualized the dataset using Seaborn plots 
+* Analyzed relationships between important features
+* Generated insights from the cleaned dataset
+* Summarized the complete data cleaning and preprocessing workflow
+
 
 
 
