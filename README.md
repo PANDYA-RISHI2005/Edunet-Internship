@@ -73,7 +73,7 @@ This assignment focuses on cleaning and analyzing a **World Sustainability Datas
 * Generated insights from the cleaned dataset
 * Summarized the complete data cleaning and preprocessing workflow
 
-## 6. Linear Regression on Sustainable Power Evaluation Dataset (12-07-2026)
+## 6. Linear Regression on Sustainable Power Evaluation Dataset (11-07-2026)
 
 This assignment focuses on building and evaluating a Linear Regression model using a Sustainable Power Evaluation dataset containing financial, operational, environmental, and social sustainability indicators.
 
@@ -98,7 +98,7 @@ This assignment focuses on building and evaluating a Linear Regression model usi
 - Summarized the complete machine learning workflow from data preprocessing to model evaluation     
 
 
-## 7. Logistic Regression on Green Supply Chain Sustainability Dataset (12-07-2026)
+## 7. Logistic Regression on Green Supply Chain Sustainability Dataset (11-07-2026)
 
 This assignment focuses on building and evaluating a **Logistic Regression** model using a Green Supply Chain Sustainability dataset containing environmental, operational, and sustainability-related indicators.
 
