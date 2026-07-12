@@ -73,6 +73,55 @@ This assignment focuses on cleaning and analyzing a **World Sustainability Datas
 * Generated insights from the cleaned dataset
 * Summarized the complete data cleaning and preprocessing workflow
 
+## 6. Linear Regression on Sustainable Power Evaluation Dataset (12-07-2026)
+
+This assignment focuses on building and evaluating a Linear Regression model using a Sustainable Power Evaluation dataset containing financial, operational, environmental, and social sustainability indicators.
+
+### Tasks Performed:
+
+- Downloaded a sustainability-related dataset (Sustainable Power Evaluation Dataset)
+- Imported the dataset using Pandas
+- Explored the dataset using `head()`, `info()`, `shape()`, and `describe()`
+- Analyzed the relationship between all features and the target variable (Sustainability Score)
+- Identified missing values and handled them using **Mean Imputation**
+- Removed the **Company_ID** column as it is an identifier and not useful for prediction
+- Performed feature engineering by selecting relevant features for prediction
+- Encoded categorical variables using `pd.get_dummies()` (if applicable)
+- Applied **StandardScaler** to normalize numerical features
+- Visualized the dataset using Seaborn plots such as Heatmap, Histogram, Boxplot, and Scatter Plot
+- Split the dataset into training and testing sets using `train_test_split()`
+- Built a **Linear Regression** model using Scikit-learn
+- Predicted the **Sustainability Score** on the test dataset
+- Evaluated the model using **MAE, MSE, RMSE, and R² Score**
+- Compared the actual and predicted values using a scatter plot
+- Generated insights based on model performance and feature relationships
+- Summarized the complete machine learning workflow from data preprocessing to model evaluation     
+
+
+## 7. Logistic Regression on Green Supply Chain Sustainability Dataset (12-07-2026)
+
+This assignment focuses on building and evaluating a **Logistic Regression** model using a Green Supply Chain Sustainability dataset containing environmental, operational, and sustainability-related indicators.
+
+### Tasks Performed:
+
+- Downloaded a sustainability-related dataset (Green Supply Chain Sustainability Dataset)
+- Imported the dataset using Pandas
+- Explored the dataset using `head()`, `info()`, `shape()`, and `describe()`
+- Analyzed the relationship between all features using correlation analysis and Seaborn visualizations
+- Identified **50 missing values** and handled them using **Median Imputation** for numerical features and **Mode Imputation** for categorical features
+- Removed the **ID** column as it is a unique identifier and not useful for prediction
+- Created a binary target variable (**Sustainability Class**) from the Sustainability Score for classification
+- Performed feature engineering by selecting relevant features for prediction
+- Encoded categorical variables using `pd.get_dummies()`
+- Applied **StandardScaler** to normalize numerical features
+- Visualized the dataset using Seaborn plots such as Heatmap, Histogram, Boxplot, Pairplot, and Scatter Plot
+- Split the dataset into training and testing sets using `train_test_split()`
+- Built a **Logistic Regression** model using Scikit-learn
+- Predicted the Sustainability Class on the test dataset
+- Evaluated the model using **Accuracy, Precision, Recall, F1-Score, and Confusion Matrix**
+- Analyzed feature relationships and model performance through visualizations
+- Generated insights based on the classification results and feature importance
+- Summarized the complete machine learning workflow from data preprocessing to model evaluation
 
 
 
