@@ -124,7 +124,40 @@ This assignment focuses on building and evaluating a **Logistic Regression** mod
 - Summarized the complete machine learning workflow from data preprocessing to model evaluation
 
 
+# 8. K-Means Clustering on Global Sustainable Energy Dataset (13-07-2026)
 
+This assignment focuses on applying the **K-Means Clustering** algorithm to a Global Sustainable Energy dataset containing environmental, economic, and renewable energy indicators to identify groups of countries with similar sustainability characteristics.
+
+## Tasks Performed:
+
+- Downloaded a sustainability-related dataset (Global Sustainable Energy Dataset)
+- Imported the dataset using Pandas
+- Explored the dataset using `head()`, `info()`, `shape()`, and `describe()`
+- Checked for missing values and duplicate records
+- Handled missing values using Median Imputation for numerical features
+- Removed unnecessary columns that were not relevant for clustering
+- Selected important sustainability-related features such as:
+  - Access to Electricity (% of population)
+  - Renewable Electricity Generating Capacity per Capita
+  - Renewable Energy Share in Total Final Energy Consumption (%)
+  - CO₂ Emissions (kt)
+  - GDP per Capita
+- Performed Exploratory Data Analysis (EDA)
+- Analyzed feature relationships using Correlation Heatmap
+- Visualized feature distributions using Histograms
+- Detected outliers using Boxplots
+- Examined pairwise relationships using Pairplots
+- Standardized the selected numerical features using **StandardScaler**
+- Determined the optimal number of clusters using the **Elbow Method**
+- Applied the **K-Means Clustering** algorithm with the optimal number of clusters (**K = 5**)
+- Assigned cluster labels to each country in the dataset
+- Visualized the resulting clusters using Scatter Plots
+- Calculated and interpreted the Cluster Centers
+- Evaluated the clustering performance using the **Silhouette Score**
+- Obtained a **Silhouette Score of 0.49**, indicating good cluster separation
+- Interpreted each cluster based on sustainability indicators and economic characteristics
+- Generated insights from the clustered countries to support sustainability analysis and comparative environmental studies
+- Summarized the complete unsupervised machine learning workflow from data preprocessing and feature scaling to clustering, visualization, and model evaluation
 
 
 
